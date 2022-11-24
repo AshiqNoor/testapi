@@ -153,7 +153,7 @@
             {
                 "id": 2,
                 "course_id": 1,
-                "module_title": "MODULE Two",
+                "module_title": "MODULE TWO",
                 "status": "active",
                 "module_finish_status": 0,
                 "sub_modules": [
